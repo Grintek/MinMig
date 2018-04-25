@@ -6,10 +6,10 @@
     <link rel="stylesheet" href="/static/css/style.css">
 </head>
 <bodyram
-<div class="verh">
+<p class="verh">
     <img class="ramka" src="/image/ramka.png">
-    <img class="play" src="/image/fotoFon.jpg" height="400">
-</div>
+    <img class="play" src="/image/fotoFon.jpg" height="368" width="660">
+</p>
 <div class="ters">
 <div class="simple">
 <H1>Главное</H1>
