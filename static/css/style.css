@@ -1,36 +1,26 @@
 body{
-    height: auto;
+
+
     background: linear-gradient(to top, black, #222222);
+    background-repeat: no-repeat;
+    background-size: cover;
+
 
 }
-.verh img{
+.verh{
 
-position: relative;
-}
-.ramka{
-z-index: 3;
-    display: block;
-    max-width: 100%;
-    height: auto;
-    margin-right: auto;
-    margin-left: auto;
-}
-.play{
-
-    display: block;
-    left: auto;
-    top:-430px;
-    z-index: 2;
-
-    margin-right: auto;
-    margin-left: auto;
-
+    height: 800px;
+    background-image: url("/image/ramka.png"), url("/image/cheterPlayer.png");
+    background-repeat: no-repeat;
+    background-position: center center;
 
 }
 .simple{
 
+
     background-color: aquamarine;
     max-width: 500px;
+
     margin-left: auto;
     margin-right: auto;
 

@@ -5,11 +5,10 @@
     <title>Главная</title>
     <link rel="stylesheet" href="/static/css/style.css">
 </head>
-<bodyram
-<p class="verh">
-    <img class="ramka" src="/image/ramka.png">
-    <img class="play" src="/image/fotoFon.jpg" height="368" width="660">
-</p>
+<body>
+<div class="verh">
+    
+</div>
 <div class="ters">
 <div class="simple">
 <H1>Главное</H1>
